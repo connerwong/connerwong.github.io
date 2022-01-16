@@ -62,7 +62,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Visual Studio Code",
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
@@ -72,9 +72,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-01-09",
       "endDate": "Present",
       "gpa": "",
       "courses": [
