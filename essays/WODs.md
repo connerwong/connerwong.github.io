@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why I Decided on MIS
+title: What Worked for Me WODs
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-24
 labels:
